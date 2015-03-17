@@ -1,1 +1,1 @@
-# wordpress-hnbcurrency-exchange-list
+# wordpress-hnb-currency-exchange-list
